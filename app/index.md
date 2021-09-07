@@ -1,7 +1,7 @@
 ---
 layout: collection
-title: "A design history for your GOV.UK service"
-description: "Document and share design decisions. Create a permanent record of how your service has developed over time."
+title: "Appeal a planning decision design history"
+description: "A history of the design decisions made for the Appeal a planning decision service for the Planning Inspectorate."
 pagination:
   data: collections.all
   reverse: true
